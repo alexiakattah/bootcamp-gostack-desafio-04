@@ -18,7 +18,7 @@ Nessa aplicação você irá desenvolver uma interface semelhante com a do Faceb
 Clone the project with
 
 ```sh
-git clone https://github.com/alexiakattah/gobarber-api.git
+git clone https://github.com/alexiakattah/bootcamp-gostack-desafio-04.git
 ```
 
 Get in the path project, then install the dependencies with:
