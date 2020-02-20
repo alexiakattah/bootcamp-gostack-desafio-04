@@ -1,0 +1,43 @@
+.content {
+  /* padding: 10px 20% 0 20%; */
+  padding-bottom: 20px;
+  font-family: 'Roboto';
+  margin: 20px 18% 0 18%;
+  background-color: #fff;
+  border-radius: 7px;
+  box-shadow: 0px 0px 10px rgba(77, 77, 77, 0.3);
+  white-space: pre-wrap;
+}
+.Postfile {
+  padding: 20px;
+}
+.PostHeader img {
+  border-radius: 50%;
+  width: 30px;
+  height: 30px;
+}
+.PostHeader {
+  display: flex;
+}
+.UserName {
+  display: flex;
+  flex-direction: column;
+  padding-left: 10px;
+}
+.UserName #postName {
+  font-weight: 700;
+}
+.UserName #postDate {
+  color: rgb(143, 143, 143);
+  font-size: 12px;
+  padding-top: 2px;
+}
+.PostMessage {
+  margin-top: 20px;
+}
+hr {
+  height: 1px;
+  background-color: #d8d8d8;
+  margin: 5px 20px 5px 20px;
+  border: none;
+}

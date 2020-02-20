@@ -1,10 +1,11 @@
-.header {
-  height: 60px;
+.headerPost {
+  height: 50px;
   overflow: hidden;
   background-color: #4a90e2;
   padding: 10px 30px 10px 30px;
   font-size: 16px;
   color: #fff;
+  vertical-align: baseline;
 }
 .user-profile {
   float: right;
@@ -13,4 +14,6 @@
 p {
   float: right;
   font-weight: 700;
+  color: #fff;
+  padding-top: 6px;
 }

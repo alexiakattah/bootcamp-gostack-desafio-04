@@ -1,0 +1,21 @@
+#comments {
+  padding: 10px 20px 0px 20px;
+  display: flex;
+  flex-direction: row;
+}
+.commentsHeader img {
+  border-radius: 50%;
+  width: 30px;
+  height: 30px;
+}
+.commentcontent {
+  font-size: 15px;
+  background-color: rgb(236, 236, 236);
+  border-radius: 17px;
+  margin-left: 15px;
+  padding: 15px;
+}
+.commentcontent .commentName {
+  font-weight: 700;
+  padding-right: 5px;
+}

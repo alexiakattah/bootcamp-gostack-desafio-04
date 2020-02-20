@@ -5,7 +5,7 @@ import user from '../assets/images/user.svg';
 
 function Header() {
   return (
-    <div className="header">
+    <div className="headerPost">
       <img src={logo} />
       <p>
         Meu Perfil <img className="user-profile" src={user} />

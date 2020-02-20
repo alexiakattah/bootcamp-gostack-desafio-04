@@ -4,8 +4,9 @@
   padding: 0;
   margin: 0;
   box-sizing: border-box;
+  font-family: 'Roboto', sans-serif;
+  color: rgb(63, 63, 63);
 }
 body {
-  font-family: 'Roboto', sans-serif;
-  background: #ccc;
+  background: rgb(216, 216, 216);
 }

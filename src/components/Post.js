@@ -9,19 +9,19 @@ function Post({ data }) {
         <div className="Postfile">
           <div className="PostContent">
             <div className="PostHeader">
-              <img src="" alt="" />
+              <img src={data.author.avatar} alt="" />
               <div className="UserName">
-                <span>{data.author.name}</span>
-                <span>{data.date}</span>
+                <span id="postName">{data.author.name}</span>
+                <span id="postDate">{data.date}</span>
               </div>
             </div>
             <div className="PostMessage">{data.content}</div>
           </div>
         </div>
         <hr />
-        {/* {data.comments.map(comment => (
+        {data.comments.map(comment => (
           <Comment key={comment.id} data={comment} />
-        ))} */}
+        ))}
       </div>
     </>
   );
