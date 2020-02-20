@@ -11,7 +11,7 @@ Nessa aplicação você irá desenvolver uma interface semelhante com a do Faceb
 
 ## Preview
 
-<img alt="Rocketseat GoStack" src="https://github.com/alexiakattah/bootcamp-gostack-desafio-04/blob/master/src/assets/preview.PNG" width="200px" />
+<img alt="Rocketseat GoStack" src="https://github.com/alexiakattah/bootcamp-gostack-desafio-04/blob/master/src/assets/preview.PNG" width="800px" />
 
 ## Installation
 
